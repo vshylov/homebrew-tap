@@ -2,8 +2,8 @@
 class Mindfork < Formula
   desc "Terminal AI chat with memory: local models via llama.cpp, or the clouds"
   homepage "https://mindfork.io"
-  url "https://github.com/vshylov/mindfork-rs/releases/download/v0.23.1/mindfork-rs-v0.23.1-aarch64-macos.tar.gz"
-  sha256 "6efc23f2c713189e9db12a2cd78263ab0e0c40383bd7a694fa5ee2e7ac65991e"
+  url "https://github.com/vshylov/mindfork-rs/releases/download/v0.24.0/mindfork-rs-v0.24.0-aarch64-macos.tar.gz"
+  sha256 "5f2dc398cec1c30d488a8291bc5a3d761b58987485bc063b3195332279b33974"
   license "MIT"
 
   # The release builds macOS for Apple Silicon only: an Intel Mac would have
